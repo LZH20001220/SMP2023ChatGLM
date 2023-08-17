@@ -1,3 +1,6 @@
+## 比赛链接
+[SMP 2023 ChatGLM金融大模型挑战赛_算法大赛_天池大赛-阿里云天池 (aliyun.com)](https://tianchi.aliyun.com/competition/entrance/532126/introduction)
+
 ## 项目文件说明
 
 - **code**
