@@ -67,3 +67,12 @@ python merge_answer.py
 ```
 
 ---
+
+## 初赛排名
+
+#### 17/1893
+
+![image-20230817095140164](https://fastly.jsdelivr.net/gh/LZH20001220/pics/img/202308170959720.png)
+
+
+![image-20230817095414206](https://fastly.jsdelivr.net/gh/LZH20001220/pics/img/202308171000902.png)
