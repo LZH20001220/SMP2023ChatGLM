@@ -1,0 +1,2 @@
+filepath=E:\langchain-ChatGLM-master\langchain-ChatGLM-master\test.txt,len=1
+page_content='浣犲ソ' metadata={'source': 'E:\\langchain-ChatGLM-master\\langchain-ChatGLM-master\\test.txt'}
